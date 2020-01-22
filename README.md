@@ -1,2 +1,2 @@
-# AACoding02
-second day of coding in AA class
+# AACodingFinal
+Final Coding Project for Advanced Algebra
